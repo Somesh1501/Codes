@@ -1,1 +1,1 @@
-Some python code examples written inpast
+Some python code examples written in past
